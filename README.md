@@ -1,9 +1,9 @@
 # Pathfinding-Project
 
-##Brief
+## Brief
 This is a simple pathfinding project I did using python in Jupiter notebook.
 It allows for testing three different types of pathfinding on a grid of a chosen or random size.
-One of the methods used is Dijkstra's algorithm. below is description and coding example of how it works
+One of the methods used is Dijkstra's algorithm. below is description and coding example of how dijkstra's works
 ## Overview
 
 Dijkstra's algorithm is a popular algorithm used to find the shortest paths between nodes in a graph. It works by iteratively selecting the node with the smallest distance from a source node and updating the distances of its neighbors accordingly. This process continues until all nodes have been visited or the destination node is reached. Dijkstra's algorithm is commonly used in various applications, such as network routing and pathfinding in games.
